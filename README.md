@@ -1,4 +1,4 @@
-<h1 align="center">Thanapon (Kanompung) 👋</h1>
+<h1 align="center"> Hi Krub Im'Kanompung 👋</h1>
 
 <p align="center">
 AI Researcher intern @ SCBX R&D • Founder @ AreaZero.ai • Agentic AI Builder
