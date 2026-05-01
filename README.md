@@ -56,7 +56,7 @@ An AI-powered smart campus travel and local business recommendation platform. Ut
 
 ## 📄 Publications
 
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/IEEE_logo.svg/200px-IEEE_logo.svg.png" height="14" align="center"/> **CHAI: Calibrated Hybrid Assessment for IELTS Speaking** — *IEEE SAI-NLP / IINAE Workshop (Phuket, Thailand) | Best Workshop Paper*. Developed a hybrid ASR + SSL-based IELTS Speaking assessment system with human-prior calibration.
+* <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/IEEE_logo.svg/200px-IEEE_logo.svg.png](https://1000logos.net/ieee-logo/)" height="14" align="center"/> **CHAI: Calibrated Hybrid Assessment for IELTS Speaking** — *IEEE SAI-NLP / IINAE Workshop (Phuket, Thailand) | Best Workshop Paper*. Developed a hybrid ASR + SSL-based IELTS Speaking assessment system with human-prior calibration.
 
 ---
 
