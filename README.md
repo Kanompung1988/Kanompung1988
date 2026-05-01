@@ -1,7 +1,7 @@
 <h1 align="center">Thanapon (Kanompung) 👋</h1>
 
 <p align="center">
-AI Researcher @ SCBX R&D • Founder @ AreaZero.ai • Agentic AI Builder
+AI Researcher intern @ SCBX R&D • Founder @ AreaZero.ai • Agentic AI Builder
 </p>
 
 <p align="center">
