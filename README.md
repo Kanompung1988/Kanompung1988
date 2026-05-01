@@ -20,7 +20,7 @@ I’m an AI builder focused on turning ideas into working systems. I am currentl
 
 - 🧠 **AI Researcher Intern @ SCBX R&D:** Architecting multi-agent LLM pipelines and accelerating research freshness by 30%.
 - 🚀 **Founder & CEO @ AreaZero.ai:** Delivering agentic AI systems, enterprise chatbots, and CV solutions for real-world clients.
-- 🏆 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/200px-MIT_logo.svg.png" height="14" align="center"/> **MIT Media Lab AI & Robotics Challenge:** Winner for technical depth and real-world impact.  
+- 🏆 **MIT Media Lab AI & Robotics Challenge:** Winner for technical depth and real-world impact.  
 - 🌏 **APICTA 2025:** 1st Runner-Up (Thailand Representative) among 14+ Asia-Pacific economies.
 
 **Current Focus:** Agentic AI & autonomous systems • LLM + RAG + multi-agent pipelines • AI for healthcare & human wellbeing
