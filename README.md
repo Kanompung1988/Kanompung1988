@@ -52,7 +52,6 @@ An AI-powered smart campus travel and local business recommendation platform[cit
 
 ## 📄 Publications
 
-* **PSC: Personalized Sentence-level Pronunciation Coaching** — *IEEE IC4E 2025 (Fukuoka, Japan) | Full Paper*[cite: 1]. Proposed a framework for Thai EFL learners using Self-Supervised Speech Models (HuBERT, WavLM) and forced alignment[cite: 1].
 * **CHAI: Calibrated Hybrid Assessment for IELTS Speaking** — *IEEE SAI-NLP / IINAE Workshop (Phuket, Thailand) | Best Workshop Paper*[cite: 1]. Developed a hybrid ASR + SSL-based IELTS Speaking assessment system with human-prior calibration[cite: 1].
 
 ---
