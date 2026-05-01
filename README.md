@@ -1,6 +1,10 @@
 <div align="center">
   <h1>👋 Hi Krub, I'm Kanompung (Thanapon)</h1>
-  <h3>AI Researcher Intern @ SCBX R&D • Founder @ AreaZero.ai • Agentic AI Builder</h3>
+  <h3>
+    <img src="https://img.shields.io/badge/SCBX-4B2982?style=flat-square&logoColor=white" alt="SCBX" align="center"/> AI Researcher Intern • 
+    <img src="https://img.shields.io/badge/AreaZero.ai-000000?style=flat-square&logoColor=white" alt="AreaZero.ai" align="center"/> Founder • 
+    Agentic AI Builder
+  </h3>
   <p><i>Building real-world AI systems — from research → to production → to impact</i></p>
   
   <p align="center">
@@ -14,12 +18,12 @@
 
 ## 💫 About Me
 
-I’m an AI builder focused on turning ideas into working systems. I am currently pursuing a Bachelor of Engineering in Computer Engineering at Mahidol University[cite: 1].
+I’m an AI builder focused on turning ideas into working systems. I am currently pursuing a Bachelor of Engineering in Computer Engineering at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Mahidol_U.png/200px-Mahidol_U.png" height="18" align="center"/> **Mahidol University**.
 
-- 🧠 **AI Researcher Intern @ SCBX R&D:** Architecting multi-agent LLM pipelines and accelerating research freshness by 30%[cite: 1].
-- 🚀 **Founder & CEO @ AreaZero.ai:** Delivering agentic AI systems, enterprise chatbots, and CV solutions for real-world clients[cite: 1].
-- 🏆 **MIT Media Lab AI & Robotics Challenge:** Winner for technical depth and real-world impact[cite: 1].  
-- 🌏 **APICTA 2025:** 1st Runner-Up (Thailand Representative) among 14+ Asia-Pacific economies[cite: 1].
+- 🧠 **AI Researcher Intern @ SCBX R&D:** Architecting multi-agent LLM pipelines and accelerating research freshness by 30%.
+- 🚀 **Founder & CEO @ AreaZero.ai:** Delivering agentic AI systems, enterprise chatbots, and CV solutions for real-world clients.
+- 🏆 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/200px-MIT_logo.svg.png" height="14" align="center"/> **MIT Media Lab AI & Robotics Challenge:** Winner for technical depth and real-world impact.  
+- 🌏 **APICTA 2025:** 1st Runner-Up (Thailand Representative) among 14+ Asia-Pacific economies.
 
 **Current Focus:** Agentic AI & autonomous systems • LLM + RAG + multi-agent pipelines • AI for healthcare & human wellbeing
 
@@ -28,31 +32,31 @@ I’m an AI builder focused on turning ideas into working systems. I am currentl
 ## 🚀 Featured Projects
 
 ### 🫀 CardiacZ | *MIT Media Lab Winner & APICTA 1st Runner-Up*
-An AI-driven healthcare innovation integrating intelligent diagnostic support systems[cite: 1]. Evaluated by international experts for innovation, scalability, and societal impact[cite: 1].
+An AI-driven healthcare innovation integrating intelligent diagnostic support systems. Evaluated by international experts for innovation, scalability, and societal impact.
 
 ### 🧠 NINJA | *4-Agent LLM Pipeline*
-Ingests and summarizes 1,200+ finance/AI news items per week into slide-ready briefs for SCBX R&D[cite: 1]. Features end-to-end retrieval with SerpAPI & Tavily, achieving 95% source-credibility accuracy[cite: 1].
+Ingests and summarizes 1,200+ finance/AI news items per week into slide-ready briefs for SCBX R&D. Features end-to-end retrieval with SerpAPI & Tavily, achieving 95% source-credibility accuracy.
 
 ### 🔬 SmartLiva+ | *Digital Pathology Assistant*
-An AI-augmented digital pathology assistant designed to support pathologists in slide analysis and report generation[cite: 1]. Integrates a multi-agent LLM architecture and RAG to validate outputs against medical guidelines[cite: 1].
+An AI-augmented digital pathology assistant designed to support pathologists in slide analysis and report generation. Integrates a multi-agent LLM architecture and RAG to validate outputs against medical guidelines.
 
 ### 🌍 Salaya Go | *Smart Campus Recommendation*
-An AI-powered smart campus travel and local business recommendation platform[cite: 1]. Utilizes LLM + RAG-based personalization to recommend food and travel routes based on user intent and location context[cite: 1].
+An AI-powered smart campus travel and local business recommendation platform. Utilizes LLM + RAG-based personalization to recommend food and travel routes based on user intent and location context.
 
 ---
 
 ## 🏆 Selected Awards & Achievements
 
-* 🥈 **Silver Medal | Super AI Engineer Season 5:** Completed baseline challenges across NLP, CV, Time Series, and Tabular tasks, ranking 3rd nationwide in Crime Analysis[cite: 1].
-* 🥉 **2nd Runner-Up | NASA Space Apps Challenge:** Developed *Space-Hero Companion*, achieving 87.5% emotion recognition accuracy using multimodal AI[cite: 1].
-* 🇹🇭 **Thailand Representative | FICS 2025 (Pakistan):** Presented *L Wiang Ping*, an AI-powered travel recommendation system using LLM + RAG[cite: 1].
-* 🌟 **Rising Star Award | Mitr Phol GenAI Hackathon 2025:** Created *ZUGUS*, an AI-powered maintenance assistant projecting significant MTTR reduction and savings[cite: 1].
+* 🥈 **Silver Medal | Super AI Engineer Season 5:** Completed baseline challenges across NLP, CV, Time Series, and Tabular tasks, ranking 3rd nationwide in Crime Analysis.
+* 🥉 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/200px-NASA_logo.svg.png" height="14" align="center"/> **2nd Runner-Up | NASA Space Apps Challenge:** Developed *Space-Hero Companion*, achieving 87.5% emotion recognition accuracy using multimodal AI.
+* 🇹🇭 **Thailand Representative | FICS 2025 (Pakistan):** Presented *L Wiang Ping*, an AI-powered travel recommendation system using LLM + RAG.
+* 🌟 **Rising Star Award | Mitr Phol GenAI Hackathon 2025:** Created *ZUGUS*, an AI-powered maintenance assistant projecting significant MTTR reduction and savings.
 
 ---
 
 ## 📄 Publications
 
-* **CHAI: Calibrated Hybrid Assessment for IELTS Speaking** — *IEEE SAI-NLP / IINAE Workshop (Phuket, Thailand) | Best Workshop Paper*[cite: 1]. Developed a hybrid ASR + SSL-based IELTS Speaking assessment system with human-prior calibration[cite: 1].
+* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/IEEE_logo.svg/200px-IEEE_logo.svg.png" height="14" align="center"/> **CHAI: Calibrated Hybrid Assessment for IELTS Speaking** — *IEEE SAI-NLP / IINAE Workshop (Phuket, Thailand) | Best Workshop Paper*. Developed a hybrid ASR + SSL-based IELTS Speaking assessment system with human-prior calibration.
 
 ---
 
@@ -61,13 +65,13 @@ An AI-powered smart campus travel and local business recommendation platform[cit
 <div align="center">
   
 **AI & Machine Learning**<br>
-`Machine Learning` `Deep Learning` `LLM` `RAG` `Agentic AI` `ASR` `Computer Vision`[cite: 1]
+`Machine Learning` `Deep Learning` `LLM` `RAG` `Agentic AI` `ASR` `Computer Vision`
 
 **Languages & Databases**<br>
-`Python` `C` `TypeScript` `SQL` `HTML/CSS`[cite: 1]
+`Python` `C` `TypeScript` `SQL` `HTML/CSS`
 
 **Libraries & Tools**<br>
-`PyTorch` `TensorFlow` `scikit-learn` `OpenCV` `Mediapipe` `Docker` `Git` `VS Code`[cite: 1]
+`PyTorch` `TensorFlow` `scikit-learn` `OpenCV` `Mediapipe` `Docker` `Git` `VS Code`
 
 </div>
 
