@@ -46,7 +46,7 @@ An AI-driven healthcare innovation integrating intelligent diagnostic support sy
 ## 🏆 Selected Awards & Achievements
 
 * 🥈 **Silver Medal | Super AI Engineer Season 5:** Completed baseline challenges across NLP, CV, Time Series, and Tabular tasks, ranking 3rd nationwide in Crime Analysis.
-* 🥉 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/200px-NASA_logo.svg.png" height="14" align="center"/> **2nd Runner-Up | NASA Space Apps Challenge:** Developed *Space-Hero Companion*, achieving 87.5% emotion recognition accuracy using multimodal AI.
+* 🥉 **2nd Runner-Up | NASA Space Apps Challenge:** Developed *Space-Hero Companion*, achieving 87.5% emotion recognition accuracy using multimodal AI.
 * 🇹🇭 **Thailand Representative | FICS 2025 (Pakistan):** Presented *L Wiang Ping*, an AI-powered travel recommendation system using LLM + RAG.
 * 🌟 **Rising Star Award | Mitr Phol GenAI Hackathon 2025:** Created *ZUGUS*, an AI-powered maintenance assistant projecting significant MTTR reduction and savings.
 
