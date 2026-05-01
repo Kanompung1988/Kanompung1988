@@ -32,7 +32,7 @@ I’m an AI builder focused on turning ideas into working systems. I am currentl
 ### 🫀 CardiacZ | *MIT Media Lab Winner & APICTA 1st Runner-Up*
 An AI-driven healthcare innovation integrating intelligent diagnostic support systems. Evaluated by international experts for innovation, scalability, and societal impact.
 
-### 🧠 NINJA | *4-Agent LLM Pipeline*
+### 🧠 NINJA | *Agentic Ai Pipeline*
 Ingests and summarizes 1,200+ finance/AI news items per week into slide-ready briefs for SCBX R&D. Features end-to-end retrieval with SerpAPI & Tavily, achieving 95% source-credibility accuracy.
 
 ### 🔬 SmartLiva+ | *Digital Pathology Assistant*
