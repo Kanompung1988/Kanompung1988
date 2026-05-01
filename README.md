@@ -1,9 +1,7 @@
 <div align="center">
   <h1>👋 Hi Krub, I'm Kanompung (Thanapon)</h1>
   <h3>
-    <img src="https://img.shields.io/badge/SCBX-4B2982?style=flat-square&logoColor=white" alt="SCBX" align="center"/> AI Researcher Intern • 
-    <img src="https://img.shields.io/badge/AreaZero.ai-000000?style=flat-square&logoColor=white" alt="AreaZero.ai" align="center"/> Founder • 
-    Agentic AI Builder
+    AI Researcher Intern • Founder • Agentic AI Builder
   </h3>
   <p><i>Building real-world AI systems — from research → to production → to impact</i></p>
   
@@ -18,7 +16,7 @@
 
 ## 💫 About Me
 
-I’m an AI builder focused on turning ideas into working systems. I am currently pursuing a Bachelor of Engineering in Computer Engineering at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Mahidol_U.png/200px-Mahidol_U.png" height="18" align="center"/> **Mahidol University**.
+I’m an AI builder focused on turning ideas into working systems. I am currently pursuing a Bachelor of Engineering in Computer Engineering at **Mahidol University**.
 
 - 🧠 **AI Researcher Intern @ SCBX R&D:** Architecting multi-agent LLM pipelines and accelerating research freshness by 30%.
 - 🚀 **Founder & CEO @ AreaZero.ai:** Delivering agentic AI systems, enterprise chatbots, and CV solutions for real-world clients.
