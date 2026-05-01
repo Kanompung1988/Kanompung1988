@@ -54,7 +54,7 @@ An AI-driven healthcare innovation integrating intelligent diagnostic support sy
 
 ## 📄 Publications
 
-* " height="14" align="center"/> **CHAI: Calibrated Hybrid Assessment for IELTS Speaking** — *IEEE SAI-NLP / IINAE Workshop (Phuket, Thailand) | Best Workshop Paper*. Developed a hybrid ASR + SSL-based IELTS Speaking assessment system with human-prior calibration.
+* **CHAI: Calibrated Hybrid Assessment for IELTS Speaking** — *IEEE SAI-NLP / IINAE Workshop (Phuket, Thailand) | Best Workshop Paper*. Developed a hybrid ASR + SSL-based IELTS Speaking assessment system with human-prior calibration.
 
 ---
 
