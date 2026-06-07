@@ -32,8 +32,8 @@ I’m an AI builder focused on turning ideas into working systems. I am currentl
 ### 🧠 NINJA | *Agentic Ai Pipeline*
 Ingests and summarizes 1,200+ finance/AI news items per week into slide-ready briefs for SCBX R&D. Features end-to-end retrieval with SerpAPI & Tavily, achieving 95% source-credibility accuracy.
 
-### 🔬 SmartLiva+ | *Digital Pathology Assistant*
-An AI-augmented digital pathology assistant designed to support pathologists in slide analysis and report generation. Integrates a multi-agent LLM architecture and RAG to validate outputs against medical guidelines.
+### 🩺 RespiZ | *AI-Powered Pneumonia Triage System*
+An AI-driven clinical decision support system designed to assist frontline healthcare workers in early pneumonia screening. Combines respiratory sound analysis, vital signs, and explainable risk stratification to support triage decisions in resource-limited settings.
 
 ### 🌍 Salaya Go | *Smart Campus Recommendation*
 An AI-powered smart campus travel and local business recommendation platform. Utilizes LLM + RAG-based personalization to recommend food and travel routes based on user intent and location context.
