@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi Krub, I'm Kanompung (Thanapon)</h1>
   <h3>
-    AI Researcher Intern • Founder • Agentic AI Builder
+    AI Engineer • Founder • Agentic AI Builder
   </h3>
   <p><i>Building real-world AI systems — from research → to production → to impact</i></p>
   
