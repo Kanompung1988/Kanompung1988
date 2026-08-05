@@ -1,80 +1,134 @@
 <div align="center">
-  <h1>👋 Hi Krub, I'm Kanompung (Thanapon)</h1>
-  <h3>
-    AI Engineer • Founder • Agentic AI Builder
-  </h3>
-  <p><i>Building real-world AI systems — from research → to production → to impact</i></p>
-  
-  <p align="center">
-    <a href="https://linkedin.com/in/kaompung1988"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:Thanaponchanal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://areazeroai.com"><img src="https://img.shields.io/badge/AreaZero.ai-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
-  </p>
+
+# 👋 Hi, I'm Kanompung
+
+### AI Engineer · Agentic AI Builder · Founder
+
+*Building practical AI systems from research and experimentation to real-world deployment.*
+
+<p>
+  <a href="https://linkedin.com/in/kaompung1988">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:Thanaponchanal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://areazeroai.com">
+    <img src="https://img.shields.io/badge/AreaZero.ai-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="AreaZero.ai"/>
+  </a>
+</p>
+
 </div>
 
 ---
 
-## 💫 About Me
+## About Me
 
-I’m an AI builder focused on turning ideas into working systems. I am currently pursuing a Bachelor of Engineering in Computer Engineering at **Mahidol University**.
+I'm **Thanapon Thanadunpremdet**, also known as **Kanompung**, an AI Engineer from Thailand.
 
-- 🧠 **AI Researcher Intern @ SCBX R&D:** Architecting multi-agent LLM pipelines and accelerating research freshness by 30%.
-- 🚀 **Founder & CEO @ AreaZero.ai:** Delivering agentic AI systems, enterprise chatbots, and CV solutions for real-world clients.
-- 🏆 **MIT Media Lab AI & Robotics Challenge:** Winner for technical depth and real-world impact.  
-- 🌏 **APICTA 2025:** 1st Runner-Up (Thailand Representative) among 14+ Asia-Pacific economies.
+I focus on building AI systems that go beyond demonstrations and prototypes—systems designed to solve real problems, support real users, and operate reliably in production.
 
-**Current Focus:** Agentic AI & autonomous systems • LLM + RAG + multi-agent pipelines • AI for healthcare & human wellbeing
+I am currently pursuing a **Bachelor of Engineering in Computer Engineering at Mahidol University** while continuing to work across AI engineering, research, and product development.
 
----
-
-## 🚀 Featured Projects
-
-### 🧠 NINJA | *Agentic Ai Pipeline*
-Ingests and summarizes 1,200+ finance/AI news items per week into slide-ready briefs for SCBX R&D. Features end-to-end retrieval with SerpAPI & Tavily, achieving 95% source-credibility accuracy.
-
-### 🩺 RespiZ | *AI-Powered Pneumonia Triage System*
-An AI-driven clinical decision support system designed to assist frontline healthcare workers in early pneumonia screening. Combines respiratory sound analysis, vital signs, and explainable risk stratification to support triage decisions in resource-limited settings.
-
-### 🌍 Salaya Go | *Smart Campus Recommendation*
-An AI-powered smart campus travel and local business recommendation platform. Utilizes LLM + RAG-based personalization to recommend food and travel routes based on user intent and location context.
-
-### 🫀 CardiacZ | *MIT Media Lab Winner & APICTA 1st Runner-Up*
-An AI-driven healthcare innovation integrating intelligent diagnostic support systems. Evaluated by international experts for innovation, scalability, and societal impact.
+* 💼 **Incoming AI Engineer at Convert Cake**
+* 🧠 **Former AI Research Intern at SCBX R&D**
+* 🚀 **Founder of AreaZero.ai**
+* 🏆 **Winner of the MIT Media Lab AI & Robotics Challenge**
+* 🌏 **1st Runner-Up at APICTA 2025**, representing Thailand
 
 ---
 
-## 🏆 Selected Awards & Achievements
+## Experience
 
-* 🥈 **Silver Medal | Super AI Engineer Season 5:** Completed baseline challenges across NLP, CV, Time Series, and Tabular tasks, ranking 3rd nationwide in Crime Analysis.
-* 🥉 **2nd Runner-Up | NASA Space Apps Challenge:** Developed *Space-Hero Companion*, achieving 87.5% emotion recognition accuracy using multimodal AI.
-* 🇹🇭 **Thailand Representative | FICS 2025 (Pakistan):** Presented *L Wiang Ping*, an AI-powered travel recommendation system using LLM + RAG.
-* 🌟 **Rising Star Award | Mitr Phol GenAI Hackathon 2025:** Created *ZUGUS*, an AI-powered maintenance assistant projecting significant MTTR reduction and savings.
+### AI Engineer — Convert Cake
+
+Working on the development and deployment of practical AI solutions for real-world business applications.
+
+### AI Research Intern — SCBX R&D
+
+Completed a one-year internship focused on AI research and engineering.
+
+My work covered:
+
+* Agentic AI and multi-agent systems
+* Retrieval-Augmented Generation
+* Deep research and information retrieval pipelines
+* AI evaluation and output-quality improvement
+* Backend development and cloud deployment
+* Multimodal AI and workflow automation
+* Research prototyping, presentation, and production handover
+
+### Founder — AreaZero.ai
+
+Building AI solutions including agentic systems, enterprise chatbots, automation tools, and computer vision applications.
 
 ---
 
-## 📄 Publications
+## Selected Achievements
 
-* **CHAI: Calibrated Hybrid Assessment for IELTS Speaking** — *IEEE SAI-NLP / IINAE Workshop (Phuket, Thailand) | Best Workshop Paper*. Developed a hybrid ASR + SSL-based IELTS Speaking assessment system with human-prior calibration.
+* 🏆 **Winner — MIT Media Lab AI & Robotics Challenge**
+* 🌏 **1st Runner-Up — APICTA 2025**
+* 🥈 **Silver Medal — Super AI Engineer Season 5**
+* 🥉 **2nd Runner-Up — NASA International Space Apps Challenge**
+* 🇹🇭 **Thailand Representative — FICS 2025, Pakistan**
+* 🌟 **Rising Star Award — Mitr Phol GenAI Hackathon 2025**
+* 📊 **3rd Nationwide — Crime Analysis Challenge**
 
 ---
 
-## 🛠️ Tech Stack
+## Publication
+
+### CHAI: Calibrated Hybrid Assessment for IELTS Speaking
+
+**Best Workshop Paper — IEEE SAI-NLP / IINAE Workshop**
+
+A hybrid IELTS Speaking assessment framework combining automatic speech recognition, self-supervised speech representations, and human-prior calibration to improve scoring reliability and interpretability.
+
+---
+
+## Areas of Interest
+
+* Agentic AI and autonomous systems
+* Large Language Model applications
+* Retrieval-Augmented Generation
+* Multi-agent architectures
+* AI evaluation and reliability
+* Multimodal AI
+* Computer vision
+* Healthcare AI
+* AI infrastructure and deployment
+
+---
+
+## Tech Stack
 
 <div align="center">
-  
-**AI & Machine Learning**<br>
-`Machine Learning` `Deep Learning` `LLM` `RAG` `Agentic AI` `ASR` `Computer Vision`
 
-**Languages & Databases**<br>
-`Python` `C` `TypeScript` `SQL` `HTML/CSS`
+### Languages
 
-**Libraries & Tools**<br>
-`PyTorch` `TensorFlow` `scikit-learn` `OpenCV` `Mediapipe` `Docker` `Git` `VS Code`
+<img src="https://skillicons.dev/icons?i=python,typescript,c,html,css" alt="Programming Languages"/>
+
+### AI & Machine Learning
+
+`PyTorch` · `TensorFlow` · `scikit-learn` · `OpenCV` · `MediaPipe`
+
+### Backend, Cloud & Tools
+
+<img src="https://skillicons.dev/icons?i=fastapi,docker,gcp,git,github,vscode" alt="Development Tools"/>
+
+### Core Skills
+
+`LLMs` · `RAG` · `Agentic AI` · `Multi-Agent Systems`
+`Machine Learning` · `Deep Learning` · `Computer Vision` · `ASR`
 
 </div>
 
 ---
 
-<p align="center">
-  <i>"Build systems that actually work, not just models that look good"</i>
-</p>
+<div align="center">
+
+### Building AI systems that are useful, reliable, and ready for the real world.
+
+<i>“Build systems that actually work—not just models that look good.”</i>
+
+</div>
