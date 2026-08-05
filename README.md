@@ -30,7 +30,7 @@ I focus on building AI systems that go beyond demonstrations and prototypes—sy
 
 I am currently pursuing a **Bachelor of Engineering in Computer Engineering at Mahidol University** while continuing to work across AI engineering, research, and product development.
 
-* 💼 **Incoming AI Engineer at Convert Cake**
+* 💼 **AI Engineer at Convert Cake**
 * 🧠 **Former AI Research Intern at SCBX R&D**
 * 🚀 **Founder of AreaZero.ai**
 * 🏆 **Winner of the MIT Media Lab AI & Robotics Challenge**
